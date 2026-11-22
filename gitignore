@@ -1,0 +1,5 @@
+skin_cancer_dataset/
+HAM10000*/
+__pycache__/
+*.pyc
+.venv/
